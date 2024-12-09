@@ -1,0 +1,17 @@
+/*email section styles*/
+
+#input-section{
+    width: 30rem;
+    padding: 2px;
+    border: 0.01rem solid black;
+    border-radius: 0.5rem;
+  }
+  
+  #email-box{
+    width: 20rem;
+    border: 0;
+  } 
+  #subscribe-button{
+    width: 5rem;
+    
+  }
